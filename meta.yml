@@ -1,0 +1,4 @@
+name: 'Inferencia de tipos'
+locale: es
+language: haskell
+original_id_format: '%04d'

@@ -1,0 +1,3 @@
+expectations:
+ - binding: f1
+   inspection: HasTypeSignature
