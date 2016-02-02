@@ -1,7 +1,8 @@
 Escribir el tipo de la siguiente función:
 
 ```Haskell
-f1 = g\ng = min
+f1 = g
+g = min
 ```
 
 **Nota**: no definir la función, sólo escribir su tipo en la forma
