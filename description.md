@@ -1,3 +1,5 @@
+Repasemos lo visto hasta ahora:
+
 **¿Qué es una restricción de tipos?** Se puede pensar como una condición que tiene que cumplir un tipo para que las expresiones de ese tipo sean válidas en un contexto.
 `Eq` no es un tipo, es una restricción. Algunos tipos (p.ej. todos los tipos numéricos, las listas de
 cualquier tipo numérico y los booleanos) sí cumplen la condición, otros (p.ej. las funciones) no.
