@@ -1,1 +1,2 @@
-f = g\ng = min
+f1 = g
+g = min

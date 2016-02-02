@@ -1,7 +1,7 @@
 describe "Inferencia 10" $ do
   it "la expresion f 7 debería tipar" $ do
-    const True (f 7) `shouldBe` True
+    (f1 7) `shouldBe` 7
 
   it "la expresion f 9 debería tipar" $ do
-    const True (f 9) `shouldBe` True
+    (f1 9) `shouldBe` 9
 

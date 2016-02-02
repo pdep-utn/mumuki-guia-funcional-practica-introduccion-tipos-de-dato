@@ -1,7 +1,7 @@
 Escribir el tipo de la siguiente función:
 
 ```Haskell
-f x y  = x
+f1 x y  = x
 ```
 
 **Nota**: no definir la función, sólo escribir su tipo en la forma

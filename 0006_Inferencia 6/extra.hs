@@ -1,1 +1,1 @@
-f x y z = z > y || z < x
+f1 x y z = z > y || z < x

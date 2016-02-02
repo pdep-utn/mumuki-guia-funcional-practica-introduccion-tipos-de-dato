@@ -1,1 +1,2 @@
-f x = g x 4\ng = max
+f1 x = g x 4
+g = max
