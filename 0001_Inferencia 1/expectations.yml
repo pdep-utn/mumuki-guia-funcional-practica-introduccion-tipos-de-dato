@@ -1,3 +1,6 @@
+---
 expectations:
- - binding: f1
-   inspection: HasTypeSignature
+- binding: f1
+  inspection: HasTypeSignature
+- binding: ''
+  inspection: ''

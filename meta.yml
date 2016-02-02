@@ -1,4 +1,19 @@
-name: 'Inferencia de tipos'
+---
+name: Inferencia de tipos
 locale: es
+type: practice
+beta: false
 language: haskell
-original_id_format: '%04d'
+id_format: '%04d'
+order:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11

@@ -1,6 +1,8 @@
+---
 tags:
- - pdep
- - guia4
- - inferencia
- - tipos
-locale: es
+- pdep
+- guia4
+- inferencia
+- tipos
+layout: editor_right
+type: problem
