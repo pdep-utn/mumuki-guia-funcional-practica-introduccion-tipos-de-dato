@@ -1,1 +1,1 @@
-f x y  = x
+f1 x y  = x
