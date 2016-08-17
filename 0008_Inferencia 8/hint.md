@@ -1,4 +1,4 @@
 Pensar que las siguientes expresiones deberían tipar:
 
-* `f 5`
-* `f True`
+* `f 5 "hola"`
+* `f True 5`
