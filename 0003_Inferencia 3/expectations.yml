@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: f1
+- !ruby/hash:BSON::Document
+  binding: f1
   inspection: HasTypeSignature
