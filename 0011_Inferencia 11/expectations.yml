@@ -2,3 +2,5 @@
 expectations:
 - binding: f1
   inspection: HasTypeSignature
+- binding: "*"
+  inspection: Except:HasTooShortIdentifiers
