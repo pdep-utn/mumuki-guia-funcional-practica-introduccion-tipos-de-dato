@@ -1,4 +1,4 @@
-describe "Inferencia 1" $ do
+describe "sumarDos" $ do
   it "la expresion sumarDos 3 debería tipar" $ do
     sumarDos 3 `shouldBe` 5
 
