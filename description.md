@@ -22,7 +22,7 @@ Las restricciones de tipos, también conocidas como **typeclasses**, más comune
 * `Show`: los tipos que podemos mostrar por pantalla. Casi todos, salvo las funciones
 * `Enum`: los tipos que pueden ser enumerados, es decir, que podemos listarlos todos en un orden predefinido. Por ejemplo, los `Int` (1, 2, 3, etc) y los `Char` (a, b, c, etc). Con ellos podemos definir listas de la forma `[1..]` o `['a'..'z']`
 
-Tener en cuenta que si hay más de una restricción en el tipo de una función,
+Tené en cuenta que si hay más de una restricción en el tipo de una función,
 por ejemplo una función que recibe algo de tipo a que es Eq y retorna algo de tipo b que es Ord,
 la sintaxis a usar para definir el tipo es:
 
