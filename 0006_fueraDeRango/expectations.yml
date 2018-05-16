@@ -1,4 +1,6 @@
 ---
 expectations:
-- binding: f1
+- binding: fueraDeRango
   inspection: HasTypeSignature
+- binding: "*"
+  inspection: DeclaresFunction:fueraDeRango

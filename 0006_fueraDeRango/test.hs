@@ -1,7 +1,12 @@
 describe "Inferencia 6" $ do
-  it "la expresion f 3 4 6 debería tipar" $ do
-    f1 3 4 6 `shouldBe` True
+  it "fueraDeRango 1 4 10 debería ser verdadero" $ do
+    fueraDeRango 1 4 10 `shouldBe` True
 
-  it "la expresion f 'a' 'b' 'c' debería tipar" $ do
-    f1 'a' 'b' 'c' `shouldBe` True
+  it "fueraDeRango 5 4 10 debería ser falso" $ do
+    fueraDeRango 5 4 10 `shouldBe` False
 
+  it "fueraDeRango 'e' 'a' 'f' debería ser falso" $ do
+    fueraDeRango 'e' 'a' 'f' `shouldBe` False
+
+  it "fueraDeRango 'h' 'a' 'f' debería ser falso" $ do
+    fueraDeRango 'h' 'a' 'f' `shouldBe` True
