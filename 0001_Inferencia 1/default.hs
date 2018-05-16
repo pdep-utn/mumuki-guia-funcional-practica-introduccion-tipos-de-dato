@@ -1,2 +1,2 @@
-f1 :: -- completar acá
-f1 x = x + 2
+sumarDos :: -- completar acá
+sumarDos numero = numero + 2

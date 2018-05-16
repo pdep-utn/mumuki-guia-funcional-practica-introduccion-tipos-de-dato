@@ -1,10 +1,4 @@
-Escribí el tipo de la siguiente función:
+Escribí el tipo de la función `masDos` de forma que las siguientes consultas funcionen: 
 
-```Haskell
-f1 x = x + 2
-```
-
-De forma que las siguientes consultas funcionen: 
-
-* `f1 3`
-* `f1 4.5`
+* `sumarDos 3`
+* `sumarDos 4.5`
