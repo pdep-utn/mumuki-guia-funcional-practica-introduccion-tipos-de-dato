@@ -1,11 +1,4 @@
-Escribir el tipo de la siguiente función:
+Escribí el tipo de la función `largoDelShow` de forma que las siguientes expresiones tipen:
 
-```Haskell
-f1 = length.show 
-```
-
-**Nota**: no definir la función, sólo escribir su tipo en la forma
-
-```Haskell
-f1 :: ....
-```
+* `largoDelShow True`
+* `largoDelShow 5`
