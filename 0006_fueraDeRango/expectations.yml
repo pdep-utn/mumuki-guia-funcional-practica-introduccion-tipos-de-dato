@@ -4,3 +4,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: "*"
   inspection: DeclaresFunction:fueraDeRango
+- binding: "*"
+  inspection: Except:HasRedundantParameter
