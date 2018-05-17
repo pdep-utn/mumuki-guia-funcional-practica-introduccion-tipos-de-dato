@@ -8,12 +8,12 @@ language: haskell
 id_format: "%04d"
 order:
 - 2
+- 7
 - 1
 - 3
 - 6
 - 5
 - 4
-- 7
 - 8
 - 9
 - 10
