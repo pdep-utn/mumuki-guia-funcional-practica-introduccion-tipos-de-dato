@@ -20,7 +20,7 @@ Las restricciones de tipos, también conocidas como **typeclasses**, más comune
 * `Num`: los tipos que representan números, o sea puedo sumarlos, restarlos, multiplicarlos, etc. ¡Pero no dividirlos!
 * `Show`: los tipos que podemos mostrar por pantalla. Casi todos, salvo las funciones
 
-Tené en cuenta que si hay más de una clase en el tipo de una función,
+Y recordá que si hay más de una clase en el tipo de una función,
 por ejemplo una función que recibe algo de tipo a que es Eq y retorna algo de tipo b que es Ord,
 la sintaxis a usar para definir el tipo es:
 
