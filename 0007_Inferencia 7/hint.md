@@ -1,3 +1,1 @@
-Pensar que las siguientes expresiones deberían tipar:
-
-* `f True 5`
+¡Ojo! `even` es como `esPar`: ¡sólo funciona con números enteros!
