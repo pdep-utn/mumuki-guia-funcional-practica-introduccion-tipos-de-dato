@@ -1,7 +1,6 @@
 Repasemos lo visto hasta ahora:
 
-**¿Qué es una clase de tipos?** Se puede pensar como una condición que tiene que cumplir un tipo para que las expresiones de ese tipo sean válidas en un contexto. `Eq` no es un tipo, es una clase de tipos. Algunos tipos (por ejemplo todos los tipos numéricos, las listas de
-cualquier tipo numérico y los booleanos) sí cumplen la condición, otros (p.ej. las funciones) no.
+**¿Qué es una clase de tipos?** Se puede pensar como una condición que tiene que cumplir un tipo para que las expresiones de ese tipo sean válidas en un contexto. `Eq` no es un tipo, es una clase de tipos. Algunos tipos (por ejemplo todos los tipos numéricos, las listas de cualquier tipo numérico y los booleanos) sí cumplen la condición, otros (p.ej. las funciones) no.
 Entonces si una función tiene el tipo...
 
 ```haskell
