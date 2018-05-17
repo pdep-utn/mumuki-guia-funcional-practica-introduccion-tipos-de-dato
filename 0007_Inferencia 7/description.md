@@ -1,11 +1,4 @@
-Escribir el tipo de la siguiente función:
+Escribí el tipo de la función `esParO` de forma que las siguientes consultas funcionen:
 
-```Haskell
-f1 x y = x || even y
-```
-
-**Nota**: no definir la función, sólo escribir su tipo en la forma
-
-```Haskell
-f1 :: ....
-```
+* `esParO 3 True`
+* `esParO 4 False`

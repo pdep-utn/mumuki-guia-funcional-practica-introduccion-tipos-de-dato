@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: f1
+- binding: esParO
   inspection: HasTypeSignature
