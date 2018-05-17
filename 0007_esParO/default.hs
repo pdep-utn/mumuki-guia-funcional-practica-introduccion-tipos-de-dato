@@ -1,2 +1,2 @@
 -- completar acá
-esParO numero condicion = even y || condicion
+esParO numero condicion = even numero || condicion
