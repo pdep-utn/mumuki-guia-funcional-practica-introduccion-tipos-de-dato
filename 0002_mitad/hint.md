@@ -1,1 +1,1 @@
-:memo: Acordate de que la división `/` sólo funciona con números con coma (`Float`). 
+:memo: Acordate de que la división `/` sólo funciona con números con coma (`Float`) y no para todos los números (`Num`). 
