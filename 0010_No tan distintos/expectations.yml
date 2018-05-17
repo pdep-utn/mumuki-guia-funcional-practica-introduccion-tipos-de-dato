@@ -4,3 +4,5 @@ expectations:
   inspection: DeclaresTypeSignature:noTanDistintos
 - binding: "*"
   inspection: Except:HasRedundantParameter
+- binding: "*"
+  inspection: DeclaresFunction:noTanDistintos
