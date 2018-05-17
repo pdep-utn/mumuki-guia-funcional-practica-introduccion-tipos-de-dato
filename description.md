@@ -21,7 +21,7 @@ Las restricciones de tipos, también conocidas como **typeclasses**, más comune
 * `Show`: los tipos que podemos mostrar por pantalla. Casi todos, salvo las funciones
 
 Y recordá que si hay más de una clase en el tipo de una función,
-por ejemplo una función que recibe algo de tipo a que es Eq y retorna algo de tipo b que es Ord,
+por ejemplo una función que recibe algo de tipo `a` que es `Eq` y retorna algo de tipo `b` que es `Ord`,
 la sintaxis a usar para definir el tipo es:
 
 ```haskell
