@@ -11,7 +11,7 @@ Eq a => a -> a
 (porque su tipo cumple con la condición Eq) pero no una función (porque su tipo no cumple con la
 condición).
 
-Las restricciones de tipos, también conocidas como **typeclasses**, más comunes son:
+Las clases de tipos, también conocidas como **typeclasses**, más comunes son:
 
 * `Eq`: los tipos que puedo comparar por `==`
 * `Ord`: los tipos que tienen semántica de mayor y menor, o sea puedo aplicarles `<`, `>`,`<=`, `>=`
