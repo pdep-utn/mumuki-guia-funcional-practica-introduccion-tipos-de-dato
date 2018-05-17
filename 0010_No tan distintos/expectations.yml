@@ -2,3 +2,5 @@
 expectations:
 - binding: "*"
   inspection: DeclaresTypeSignature:noTanDistintos
+- binding: "*"
+  inspection: Except:HasRedundantParameter
