@@ -17,10 +17,8 @@ Las restricciones de tipos, también conocidas como **typeclasses**, más comune
 
 * `Eq`: los tipos que puedo comparar por `==`
 * `Ord`: los tipos que tienen semántica de mayor y menor, o sea puedo aplicarles `<`, `>`,`<=`, `>=`
-* `Num`: los tipos cuyas expresiones representan números, o sea puedo sumarlos, restarlos, multiplicarlos, etc. ¡Pero no dividirlos!
-* `Fractional`: los tipos que pueden ser divididos con `/`
+* `Num`: los tipos que representan números, o sea puedo sumarlos, restarlos, multiplicarlos, etc. ¡Pero no dividirlos!
 * `Show`: los tipos que podemos mostrar por pantalla. Casi todos, salvo las funciones
-* `Enum`: los tipos que pueden ser enumerados, es decir, que podemos listarlos todos en un orden predefinido. Por ejemplo, los `Int` (1, 2, 3, etc) y los `Char` (a, b, c, etc). Con ellos podemos definir listas de la forma `[1..]` o `['a'..'z']`
 
 Tené en cuenta que si hay más de una clase en el tipo de una función,
 por ejemplo una función que recibe algo de tipo a que es Eq y retorna algo de tipo b que es Ord,
