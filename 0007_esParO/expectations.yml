@@ -2,3 +2,5 @@
 expectations:
 - binding: esParO
   inspection: HasTypeSignature
+- binding: "*"
+  inspection: Except:HasRedundantParameter
