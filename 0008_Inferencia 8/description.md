@@ -1,11 +1,5 @@
-Escribir el tipo de la siguiente función:
+Escribí el tipo de la función `soloElPrimero` (que devuelve el primer argumento e ignora al segundo) de forma que las siguientes consultas funcionen:
 
-```Haskell
-f1 x y  = x
-```
-
-**Nota**: no definir la función, sólo escribir su tipo en la forma
-
-```Haskell
-f1 :: ....
-```
+* `soloElPrimero True 6`
+* `soloElPrimero "hola" "adios"`
+* `soloElPrimero 'a' True` 

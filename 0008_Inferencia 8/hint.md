@@ -1,4 +1,3 @@
-Pensar que las siguientes expresiones deberían tipar:
+Pensá lo siguiente: los argumentos de `soloElPrimero` ¿tienen alguna restricción? ¿No podrían ser cualquier cosa?
 
-* `f 5 "hola"`
-* `f True 5`
+Es más, ¿tiene que ser ambos argumentos del mismo tipo?
