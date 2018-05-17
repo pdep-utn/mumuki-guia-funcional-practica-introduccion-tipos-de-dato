@@ -1,0 +1,1 @@
+Ah, pero la suma sí funciona con cualquier número :wink:. 
