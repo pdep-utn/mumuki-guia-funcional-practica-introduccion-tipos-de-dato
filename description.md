@@ -4,13 +4,13 @@ Repasemos lo visto hasta ahora:
 
 `Eq` no es un tipo, es una clase de tipos. Algunos tipos (por ejemplo todos los tipos numéricos, las listas de
 cualquier tipo numérico y los booleanos) sí cumplen la condición, otros (p.ej. las funciones) no.
-Entonces si una función tiene el tipo
+Entonces si una función tiene el tipo...
 
 ```haskell
 Eq a => a -> a
 ```
 
-puedo pasarle como parámetro un número, una lista de números o un booleano como parámetros
+...puedo pasarle como parámetro un número, una lista de números o un booleano como parámetros
 (porque su tipo cumple con la condición Eq) pero no una función (porque su tipo no cumple con la
 condición).
 
