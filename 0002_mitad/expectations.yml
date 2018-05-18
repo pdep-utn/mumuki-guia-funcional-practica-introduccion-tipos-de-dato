@@ -2,3 +2,5 @@
 expectations:
 - binding: mitad
   inspection: HasTypeSignature
+- binding: "*"
+  inspection: Except:HasRedundantParameter
