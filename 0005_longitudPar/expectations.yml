@@ -1,4 +1,0 @@
----
-expectations:
-- binding: longitudPar
-  inspection: HasTypeSignature

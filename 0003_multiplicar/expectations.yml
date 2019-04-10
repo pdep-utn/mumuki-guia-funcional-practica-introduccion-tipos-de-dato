@@ -1,6 +1,0 @@
----
-expectations:
-- binding: multiplicar
-  inspection: HasTypeSignature
-- binding: "*"
-  inspection: Except:HasRedundantParameter

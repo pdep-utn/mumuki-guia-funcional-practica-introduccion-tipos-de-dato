@@ -1,8 +1,0 @@
----
-expectations:
-- binding: "*"
-  inspection: DeclaresTypeSignature:noTanDistintos
-- binding: "*"
-  inspection: Except:HasRedundantParameter
-- binding: "*"
-  inspection: Declares:noTanDistintos

@@ -1,8 +1,0 @@
----
-expectations:
-- binding: "*"
-  inspection: DeclaresTypeSignature:maximoEntreTres
-- binding: "*"
-  inspection: DeclaresTypeSignature:maximoEntreTres
-- binding: "*"
-  inspection: Except:HasRedundantParameter

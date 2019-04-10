@@ -1,8 +1,0 @@
----
-expectations:
-- binding: fueraDeRango
-  inspection: HasTypeSignature
-- binding: "*"
-  inspection: Declares:fueraDeRango
-- binding: "*"
-  inspection: Except:HasRedundantParameter

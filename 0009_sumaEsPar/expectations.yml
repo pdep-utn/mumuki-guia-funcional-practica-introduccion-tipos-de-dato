@@ -1,6 +1,0 @@
----
-expectations:
-- binding: sumaEsPar
-  inspection: HasTypeSignature
-- binding: "*"
-  inspection: Declares:sumaEsPar

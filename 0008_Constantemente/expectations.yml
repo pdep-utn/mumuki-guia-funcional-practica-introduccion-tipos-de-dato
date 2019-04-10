@@ -1,6 +1,0 @@
----
-expectations:
-- binding: soloElPrimero
-  inspection: HasTypeSignature
-- binding: "*"
-  inspection: Except:HasRedundantParameter
